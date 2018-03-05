@@ -7,6 +7,7 @@
 # Compiled class files #
 ########################
 /bin/
+/target/
 
 # Package Files #
 #################
@@ -23,3 +24,7 @@
 # WinMerge .bak files #
 #######################
 *.bak
+
+# local git repo #
+#######################
+.git/
